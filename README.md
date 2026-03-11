@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samar Chaubey</h1>
 <h3 align="center">AI • Machine Learning • Quantum Computing</h3>
 
-## 💫 About Me
-
 <p>
 👋 Hey, I'm <b>Samar</b><br>
 

@@ -31,14 +31,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarChaubey&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamarChaubey&theme=nightowl&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=SamarChaubey&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com/?user=SamarChaubey&theme=nightowl&hide_border=false"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarChaubey&theme=nightowl&hide_border=false&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamarChaubey&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
+
 
 

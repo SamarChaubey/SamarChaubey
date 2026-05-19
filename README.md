@@ -38,6 +38,8 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamarChaubey&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamarChaubey&label=Profile%20views&color=0e75b6&style=flat" alt="SamarChaubey" /> </p>
+
 
 ---
 
